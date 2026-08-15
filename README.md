@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 </div>
@@ -39,6 +38,9 @@ Passionate Web Developer with **1.5 years of hands-on experience** building mode
 
 ### [Medo JR 99 ISLAMIC](https://meedojr1.github.io/MEDO-JR-99-ISLAMIC/)
 One of my most ambitious and time-intensive projects, built to deliver a modern and interactive Islamic web experience. It showcases my ability to combine frontend development, responsive design, interactive features, and attention to detail.
+
+### [Medo JR 99 Portfolio](https://meedojr1.github.io/MEDO-JR-99-Portfolio/)
+This website explains everything about me in detail and why I entered the field of programming.
 
 ---
 
